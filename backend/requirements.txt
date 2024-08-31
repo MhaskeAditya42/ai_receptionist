@@ -1,0 +1,3 @@
+Flask
+qdrant-client
+google-cloud-aiplatform

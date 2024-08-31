@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "emergency": "patient not breathing",
+      "response": "Perform CPR. Push against the chest of the patient and blow air into their mouth in a constant rhythm."
+      
+    },
+    {
+      "id": 2,
+      "emergency": "severe bleeding",
+      "response": "Apply pressure to the wound and raise the limb to reduce blood flow."
+      
+    }
+    
+  ]
