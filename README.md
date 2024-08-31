@@ -1,6 +1,4 @@
-Certainly! Here's a detailed `README.md` for setting up your AI Receptionist project using Qdrant, Flask, and Streamlit. This guide will cover the setup for the backend, Qdrant client, and frontend components.
 
----
 
 # AI Receptionist for Dr. Adrin
 
